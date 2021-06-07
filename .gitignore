@@ -1,4 +1,3 @@
 
-DataSets/ml-latest/*
-
-DataSets/IMDb movies extensive dataset/*
+DataSets/*
+.ipynb_checkpoints/*
