@@ -134,7 +134,7 @@ terminado==0.9.2
 testpath==0.4.4
 threadpoolctl==2.1.0
 toolz==0.11.1
-tornado==6.1
+tornado==6.3.3
 traitlets==5.0.5
 tzlocal==2.1
 urllib3==1.26.5
